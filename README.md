@@ -1,6 +1,6 @@
 # 探索政治獻金
 
-Microsoft #OpenHack Day 跟 @c3h3 一起合作，透過 R 與 Power BI 探索政治獻金資料。
+Microsoft #OpenHack Day 跟 [@c3h3](https://github.com/c3h3) 一起合作，透過 R 與 Power BI 探索政治獻金資料。
 
 成果請見 [Power BI 視覺化](https://app.powerbi.com/view?r=eyJrIjoiYmEwN2RhM2MtZDc3Ny00MzEzLWIyMGUtZmRkNjg2ZjAwODA3IiwidCI6ImQzZDg0MTg0LTIwYjMtNDViZS05ZWE0LTBhODUxMjFhNTU3NiIsImMiOjEwfQ%3D%3D)頁面。
 
@@ -8,6 +8,6 @@ Microsoft #OpenHack Day 跟 @c3h3 一起合作，透過 R 與 Power BI 探索政
 
 ### 資料說明
 
-- A05_basic_all.csv：@mirror-media 製作之各候選人政治獻金資料，每位候選人一行之匯總資料。
-- A02_company_all_public.csv：@mirror-media 製作之各候選人政治獻金每一筆之來源、金額等細目資料。
+- A05_basic_all.csv：[@mirror-media](https://github.com/mirror-media) 製作之各候選人政治獻金資料，每位候選人一行之匯總資料。
+- A02_company_all_public.csv：[@mirror-media](https://github.com/mirror-media) 製作之各候選人政治獻金每一筆之來源、金額等細目資料。
 - candidates.csv：中選會網站下載之 2016 年第九屆立委選舉各選區候選人得票數、得票率等資料。
